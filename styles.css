@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(rgb(223, 221, 221), rgb(99, 99, 192)) fixed;
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    margin-top: 50px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: rgb(197, 191, 191);
+}
+
+button:hover {
+    background-color: rgb(150, 149, 149);
+}
